@@ -5,8 +5,7 @@
  
 
 အသုံးများတဲ့ ArcGIS 10.x နဲ့ QGIS 2.x မှာ ဇော်ဂျီနဲ့ ယူနီကုတ် က မှန်ကန်စွာ မပေါ်ပါဘူး။ အထူးသဖြင့် Windows 7 ကွန်ပြူတာတွေမှာပါ။
-
-unicode labelling problem in QGIS 2.x
+![unicode labelling problem in QGIS 2.x](images/img_01.jpg)
 
  
 
