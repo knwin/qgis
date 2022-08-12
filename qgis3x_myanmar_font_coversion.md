@@ -1,4 +1,4 @@
-Myanmar font conversions in QGIS 3.X
+# QGIS 3.X တွင်မြန်မာဖောင့် ပြောင်းခြင်း - Myanmar font conversions in QGIS 3.X #
 
 Credit: Python-Module: Ko Thura Hlaing
 
