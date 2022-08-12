@@ -21,7 +21,7 @@ QGIS 3.x မှာ တော့ ဇော်ဂျီနဲ့ယူနီကု
 
 Win font တွေက ခုအချိန်မှာ စာစီစာရိုက်တွေမှာ အသုံးနည်း သွားပြီဖြစ်ပေမယ့် သူက စာလုံးပုံစံအခွဲများစွာရှိခဲ့ပါတယ်။ ဥပမာ Win Innwa, Win Researcher, Win Avva etc ။ အထက်က ဇော်ဂျီနဲ့ယူနီကုတ် ရဲ့ GIS application မှာကြုံနေရတဲ့ ဖောင့်ပုံစံရှားပါးမှု ကို Win font တွေက တစ်စိတ်တဒေသ ဖြေရှင်းပေးနိုင်ပါတယ်။ တစ်ချိန်တည်းမှာပဲ ခေတ်စနစ်ပြောင်းလဲလာမှုအရ Attribute table ထဲမှာ Win ဖောင့် အစား ယူနီကုတ်ကို ပဲ သုံးစွဲဖို့ လိုအပ်လာပါတယ်။ ဒီဖောင့်တွေကို အခြင်းခြင်း အပြန်အလှန်ပြောင်းပေးတဲ့ stand alone software နဲ့ browser base application တွေ ရှိပါတယ်။ ဥပမာ အောက်မှာ ဖော်ပြထားတဲ့ Rabbit converter မျိုးပါ။ Font ပြောင်းခြင်ရင်စာပိုဒ်လိုက် ကော်ပီကူးပြီး သူတို့ ထဲထည့်ပြီး ပြောင်း ရတာမျိုးပါ။
 
- ![rabbit converter](image/img_03.jpg)Rabbit converter: Unicode <> Zawgyi အပြန်အလှန်ပြောင်းလို့ရပါတယ်။
+ ![rabbit converter](images/img_03.jpg)Rabbit converter: Unicode <> Zawgyi အပြန်အလှန်ပြောင်းလို့ရပါတယ်။
 
 တစ်ဖက်မှာလည်း မြေပုံခေါင်းစဉ်ကို Win နဲ့ ရိုက်ရတာ အခက်အခဲမရှိပေမယ့် attribute table ထဲက Zawgyi သို့မဟုတ် Unicode နဲ့ထည့်ထားတဲ့ အချက်အလက်တွေကို Win font ပြောင်းဖို့ သို့မဟုတ် Win ကနေ Unicode ပြောင်းဖို့ (ကောက်လံအသစ်မှာ ဖြစ်ဖြစ်) အထက်က converter တွေနဲ့ ပြောင်းဖို့ရာ အခက်အခဲရှိပါတယ်။ တစ်ခုခြင်း ကောက်ပီကူး အပြင်က converter ထဲမှာ font ပြောင်းပြီး ကော်လံအသစ်ထဲထည့် ပြန်ထည့်ဖို့ရာ ဒေတာပေါင်း ထောင်သောင်းရှိလာရင် အခက်အခဲရှိလာပါတယ်။ ဥပမာ ကျေးရွာ အမည်တွေ က ခြောက်သောင်းကျော်ရှိပါတယ်။
 
@@ -44,14 +44,14 @@ python 3.6 နဲ့ သုံးလို့ရနေတော့ သူ့ထ�
 အောက်ပုံမှာ UNICODE ကော်လံထဲက အမည်တွေကို Win font တစ်ခုနဲ့ lable ထိုးပြထားတာပါ
 
 
-![unicode to win](image/img_04.jpg)
+![unicode to win](images/img_04.jpg)
 
 
 ## QGIS 3.4 တွင် Unicode မှ Win ဖောင့်ကို စက်ပေါ်တွင် တိုက်ရိုက် ပြောင်းလဲအသုံးပြုခြင်း ## 
 
 အောက်ကပုံကတော့ python-myanmar module ကိုသုံးပြီး font conversion functions တွေဖန်တီးထားတာပါ။ ယင်း function တွေသုံးပြီး အပေါ်ကပုံမှာ unicode ကနေ win font ကို on-the-fly conversion လုပ်ပြီး အပေါ်ကပုံမှာ label  ထိုးထားတာပါ။ 
 
-![qgis functions](image/img_05.jpg) 
+![qgis functions](images/img_05.jpg) 
 custom font converstion functions created based on Pyton-Myanmar module
  
 
