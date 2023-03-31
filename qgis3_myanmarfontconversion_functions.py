@@ -3,7 +3,6 @@
 #-------------------------------------------------------------------
 # written by 
 #           Kyaw Naing Win
-#           GIS Program Manager, OneMap Technical Unit
 #           kyawnaingwinknw@gmail.com
 # date: 2019 - 03 - 21
 #--------------------------------------------------------------------
