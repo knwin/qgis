@@ -15,7 +15,7 @@ Siddiqui ၏ Layer action script ကို ထပ်မံ ပြင်ဆင်
  - ၁. နှစ်တစ်ခုခြင်းစီအတွက် layer action script များ
  - ၂. raster symbology ကို မူလ symbology color များ အတိုင်းဖြစ်စေခြင်း နှင့် 
  - ၃. lu class အမည်များကို ပါ legend lable တွင်ဖော်ပြပေးခြင်း
- - ၄. layer metadata တွင် class lable များအကြောင်းအကျယ်းချုပ်ဖော်ပြချက်ထည့်သွင်းခြင်း
+ - ၄. layer metadata တွင် class lable များအကြောင်းအကျဉ််းချုပ်ဖော်ပြချက်ထည့်သွင်းခြင်း
 
 Layer action script ပါပြီးသား ESRI LU grid နှင့် OSM basemap ပါ ![layer definition ဖိုင် (qlr) ](https://raw.githubusercontent.com/knwin/qgis/master/ESRI_LULC/ESRI_LULC-downloadable-layers_and_OSM-Basemap.qlr)ကို ဖန်တီးထားပါသည်။ ယင်းကို ![ရယူ](ESRI_LULC-downloadable-layers_and_OSM-Basemap.qlr)ပြီး QGIS တွင်ဖွင့်ပါ။
 
