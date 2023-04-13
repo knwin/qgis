@@ -14,12 +14,12 @@ https://ar-siddiqui.medium.com/visualize-download-and-use-esri-10m-global-land-u
 နောက်ပိုင်းတွင် အခြား ESRI layer များမှတဆင့် ယင်းဒေတာအစုများ အကြောင်းပိုမိုသိရှိလားပြီး COG data များရှိရာ amazon service တစ်ခုကိုတွေ့ရှိခဲ့ရာ
 Siddiqui ၏ Layer action script ကို ထပ်မံ ပြင်ဆင်ပြီး အောက်ပါ အချက်များ ဖြည့်စွက်ခဲ့ပါသည်။
 
-၁. နှစ်တစ်ခုခြင်းစီအတွက် layer action script များ
-၂. raster symbology ကို မူလ symbology color များ အတိုင်းဖြစ်စေခြင်း နှင့် 
-၃. lu class အမည်များကို ပါ legend lable တွင်ဖော်ပြပေးခြင်း
-၄. layer metadata တွင် class lable များအကြောင်းအကျယ်းချုပ်ဖော်ပြချက်ထည့်သွင်းခြင်း
+ - ၁. နှစ်တစ်ခုခြင်းစီအတွက် layer action script များ
+ - ၂. raster symbology ကို မူလ symbology color များ အတိုင်းဖြစ်စေခြင်း နှင့် 
+ - ၃. lu class အမည်များကို ပါ legend lable တွင်ဖော်ပြပေးခြင်း
+ - ၄. layer metadata တွင် class lable များအကြောင်းအကျယ်းချုပ်ဖော်ပြချက်ထည့်သွင်းခြင်း
 
-Layer action script ပါပြီးသား ESRI LU grid နှင့် OSM basemap ပါ layer definition ဖိုင် (qlr) ကို ဖန်တီးထားပါသည်။ ယင်းကို ရယူပြီး QGIS တွင်ဖွင့်ပါ။
+Layer action script ပါပြီးသား ESRI LU grid နှင့် OSM basemap ပါ layer definition ဖိုင် (qlr) ကို ဖန်တီးထားပါသည်။ ယင်းကို ![ရယူ](ESRI_LULC-downloadable-layers_and_OSM-Basemap.qlr)ပြီး QGIS တွင်ဖွင့်ပါ။
 
  - ၁. ESRI LULC Download Scense (Symbolized) layer ကို ရွေးထားပါ
  - ၂. Identify tool ကို ယူပါ
