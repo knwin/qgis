@@ -24,7 +24,9 @@ I created a [Layer definition file (qlr)](https://raw.githubusercontent.com/knwi
 ![](images/esri_lu_loaded.png)
 ![](images/esri_lu_meta.png)
  - 5 You can export the COG layer as GeoTif or Layer Definition File (qlr). Otherwise you can save them in a project file.
-
+----
+ESRI Feature layer https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/LULC_2020_Download_Scenes/FeatureServer/0
+Siddiqui's article https://ar-siddiqui.medium.com/visualize-download-and-use-esri-10m-global-land-use-dataset-in-qgis-using-qgis-actions-and-cogs-71667c623311
 ----
 Kyaw Naing Win
 
