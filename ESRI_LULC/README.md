@@ -9,7 +9,7 @@ https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/LULC_2020_Down
 Abdul Raheem Siddiqui ဆိုသူမှ ယင်း ကို QGIS တွင် ဖြင့် မိမိလိုချင်သော နေရာကို မောက်စ် ဖြင့် ကလစ်ပြီး ဒေါင်းလုပ် လုပ်နိုင်ပုံကို medium article တစ်ခုတွင်ရေးသားခဲ့ပါသည်။ *article ဖတ်ရန်*
 https://ar-siddiqui.medium.com/visualize-download-and-use-esri-10m-global-land-use-dataset-in-qgis-using-qgis-actions-and-cogs-71667c623311
 
-နောက်ပိုင်းတွင် အခြား ESRI layer များမှတဆင့် ယင်းဒေတာအစုများ အကြောင်းပိုမိုသိရှိလားပြီး COG data များရှိရာ amazon service တစ်ခုကိုတွေ့ရှိခဲ့ရာ
+နောက်ပိုင်းတွင် အခြား ESRI layer များမှတဆင့် ယင်းဒေတာအစုများ အကြောင်းပိုမိုသိရှိလာပြီး COG dataset များရှိရာ amazon service တစ်ခုကိုတွေ့ရှိခဲ့ရာ
 Siddiqui ၏ Layer action script ကို ထပ်မံ ပြင်ဆင်ပြီး အောက်ပါ အချက်များ ဖြည့်စွက်ခဲ့ပါသည်။
 
  - ၁. နှစ်တစ်ခုခြင်းစီအတွက် layer action script များ
